@@ -18,7 +18,7 @@ namespace BanVeXemPhimApi.Controllers.Admin
 {
     [ApiController]
     [Route("api/admin/[controller]")]
-    [Authorize(Roles = "Manager")]
+    //[Authorize(Roles = "Manager")]
     public class CinemaManagementController : BaseApiController<CinemaManagementController>
     {
         private readonly CinemaManagementService _cinemaManagementService;

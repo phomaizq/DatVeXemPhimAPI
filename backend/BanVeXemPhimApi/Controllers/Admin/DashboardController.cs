@@ -18,7 +18,7 @@ namespace BanVeXemPhimApi.Controllers.Admin
 {
     [ApiController]
     [Route("api/admin/[controller]")]
-    [Authorize(Roles = "Manager, Employee, Accountant")]
+   // [Authorize(Roles = "Manager, Employee, Accountant")]
     public class DashboardController : BaseApiController<DashboardController>
     {
         private readonly DashboardService _dashboardService;
