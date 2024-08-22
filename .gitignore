@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/backend/.vs/BanVeXemPhimApi/FileContentIndex/b8600843-50b7-49dc-be02-16afbfd00eb4.vsidx
+*.vsidx
