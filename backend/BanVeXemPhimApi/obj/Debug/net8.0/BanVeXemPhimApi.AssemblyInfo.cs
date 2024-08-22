@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BanVeXemPhimApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7f33cd25c374620d607060872dd77232331801a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d519253dfaa8a60066f8b8c9e512ea15e31a4705")]
 [assembly: System.Reflection.AssemblyProductAttribute("BanVeXemPhimApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BanVeXemPhimApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

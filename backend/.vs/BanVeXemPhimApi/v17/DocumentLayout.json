@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\mapper\\mappingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\mapper\\mappingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\migrations\\20230612073755_version_0.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\migrations\\20230612073755_version_0.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\banvexemphimapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\banvexemphimapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\seeder\\movieseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\seeder\\movieseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\dto\\getscheduledetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\dto\\getscheduledetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|c:\\users\\hp\\desktop\\c#\\phimapi\\datvexemphimapi\\backend\\banvexemphimapi\\banvexemphimapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{614AA82A-8DBD-4551-87B8-752A57D22F41}|BanVeXemPhimApi\\BanVeXemPhimApi.csproj|solutionrelative:banvexemphimapi\\banvexemphimapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,16 +85,89 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BanVeXemPhimApi.AssemblyInfoInputs.cache",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
-              "RelativeDocumentMoniker": "BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
-              "RelativeToolTip": "BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
+              "Title": "MappingContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Mapper\\MappingContext.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Mapper\\MappingContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Mapper\\MappingContext.cs",
+              "RelativeToolTip": "BanVeXemPhimApi\\Mapper\\MappingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:04:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Migrations\\DatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "BanVeXemPhimApi\\Migrations\\DatabaseContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-08-22T14:59:01.714Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:03:55.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20230612073755_version_0.1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Migrations\\20230612073755_version_0.1.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Migrations\\20230612073755_version_0.1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Migrations\\20230612073755_version_0.1.cs",
+              "RelativeToolTip": "BanVeXemPhimApi\\Migrations\\20230612073755_version_0.1.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:03:40.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BanVeXemPhimApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T15:03:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetScheduleDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Dto\\GetScheduleDetailDto.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Dto\\GetScheduleDetailDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Dto\\GetScheduleDetailDto.cs",
+              "RelativeToolTip": "BanVeXemPhimApi\\Dto\\GetScheduleDetailDto.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:00:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Controllers\\Admin\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Controllers\\Admin\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Controllers\\Admin\\DashboardController.cs",
+              "RelativeToolTip": "BanVeXemPhimApi\\Controllers\\Admin\\DashboardController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwDQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:00:41.912Z",
               "EditorCaption": ""
             },
             {
@@ -73,14 +178,53 @@
               "RelativeDocumentMoniker": "BanVeXemPhimApi\\BanVeXemPhimApi.csproj",
               "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\BanVeXemPhimApi.csproj",
               "RelativeToolTip": "BanVeXemPhimApi\\BanVeXemPhimApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-22T14:58:15.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "MovieSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Seeder\\MovieSeeder.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Seeder\\MovieSeeder.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Seeder\\MovieSeeder.cs",
+              "RelativeToolTip": "BanVeXemPhimApi\\Seeder\\MovieSeeder.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:01:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "BanVeXemPhimApi\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:01:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BanVeXemPhimApi.AssemblyInfoInputs.cache",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
+              "RelativeDocumentMoniker": "BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
+              "RelativeToolTip": "BanVeXemPhimApi\\obj\\Debug\\net8.0\\BanVeXemPhimApi.AssemblyInfoInputs.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-08-22T14:59:01.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\Database\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "BanVeXemPhimApi\\Database\\DatabaseContext.cs",
@@ -93,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\appsettings.json",
               "RelativeDocumentMoniker": "BanVeXemPhimApi\\appsettings.json",
@@ -103,10 +247,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-22T14:56:25.282Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
