@@ -27,10 +27,6 @@ namespace BanVeXemPhimApi.Controllers.Admin
             _employeeManagementService = new EmployeeManagementService(apiConfig, databaseContext, mapper);
         }
 
-
-
-
-
         /// <summary>
         /// Get list employee
         /// </summary>
