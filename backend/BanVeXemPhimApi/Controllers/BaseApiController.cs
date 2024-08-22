@@ -15,7 +15,7 @@ namespace BanVeXemPhimApi.Controllers
 {
     [Produces("application/json")]
     [ActionFilter]
-    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+   // [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class BaseApiController<T> : ControllerBase where T : BaseApiController<T>
     {
         public int UserId
