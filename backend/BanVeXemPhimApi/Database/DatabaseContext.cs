@@ -48,7 +48,7 @@ namespace BanVeXemPhimApi.Database
         {
             if (!optionsBuilder.IsConfigured)
             {
-                var sqlConnection = "Server=localhost;Port=3306;Database=website_ban_ve_xem_phim;Uid=root;Pwd=1234$;MaximumPoolSize=500;";
+                var sqlConnection = "Server=localhost;Port=3306;Database=website_ban_ve_xem_phim;Uid=root;Pwd=123456;MaximumPoolSize=500;";
                 optionsBuilder.UseMySql(sqlConnection,
                     MySqlServerVersion.LatestSupportedServerVersion);
             }

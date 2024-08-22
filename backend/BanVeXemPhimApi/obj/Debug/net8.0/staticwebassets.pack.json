@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\QRCode\\payment_code_test.png",
+      "PackagePath": "staticwebassets\\QRCode\\payment_code_test.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\image\\movie\\22_700x1000pxl.jpg",
+      "PackagePath": "staticwebassets\\image\\movie\\22_700x1000pxl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\image\\movie\\movie_1.jpg",
+      "PackagePath": "staticwebassets\\image\\movie\\movie_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\image\\movie\\movie_2.jpg",
+      "PackagePath": "staticwebassets\\image\\movie\\movie_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\image\\movie\\movie_3.jpg",
+      "PackagePath": "staticwebassets\\image\\movie\\movie_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\image\\movie\\movie_4.jpg",
+      "PackagePath": "staticwebassets\\image\\movie\\movie_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\image\\movie\\movie_5.jpg",
+      "PackagePath": "staticwebassets\\image\\movie\\movie_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\PhimAPI\\DatVeXemPhimAPI\\backend\\BanVeXemPhimApi\\wwwroot\\image\\movie\\nbn_main-poster_2_1_.jpg",
+      "PackagePath": "staticwebassets\\image\\movie\\nbn_main-poster_2_1_.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BanVeXemPhimApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BanVeXemPhimApi.props",
+      "PackagePath": "build\\BanVeXemPhimApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BanVeXemPhimApi.props",
+      "PackagePath": "buildMultiTargeting\\BanVeXemPhimApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BanVeXemPhimApi.props",
+      "PackagePath": "buildTransitive\\BanVeXemPhimApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
